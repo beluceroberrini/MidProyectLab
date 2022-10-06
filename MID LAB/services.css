@@ -1,0 +1,34 @@
+.services{
+
+}
+
+.contenedor-service{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+.service{
+    width: 340px;
+    height: 380px;
+    background-color: #fff;
+    padding: 25px;    
+}
+
+.service h3{
+    background-color: blue;
+    font-size: 24px;
+    line-height: 115%;
+    font-weight: 500;
+}
+
+.service img{
+    width: 60px;
+    height: 60px;
+    margin-top: 40px;
+    margin-left: 40px;
+    border-radius: 50%;
+    background-color: #ecf7ff;
+
+}
